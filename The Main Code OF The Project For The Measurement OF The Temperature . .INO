@@ -2,7 +2,7 @@
 
 // In this program, We want to Measure the Temperature and then Display it on the LCD Screen .
 
-// The Main Code OF The Project For The Measurement OF The Temperature . .INO .
+// The Main Code OF The Project For The Measurement OF The Temperature . . INO . .
 
 
 
